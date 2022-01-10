@@ -1,0 +1,68 @@
+* {
+    font-family: 'JejuGothic','Youth','RIDIBatang', "맑은 고딕";
+    border-spacing: 0px;
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+}
+
+a:link{
+    color: grey;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+
+@font-face {
+    font-family: Youth;
+    src: url("../fonts/Youth.ttf") format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: JejuGothic;
+    src: url("../fonts/JejuGothic.ttf") format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'RIDIBatang';
+    src: url('../fonts/RIDIBatang.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+    width: 100%;
+}
+
+body{
+    width:100%;
+}
+
+.logo{
+    width: 50%;
+    margin: auto;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.container{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.description{
+    font-size: 1.2em;
+}
