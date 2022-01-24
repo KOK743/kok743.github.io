@@ -1,0 +1,11 @@
+.container .logo{
+    width: 75%;
+}
+
+.container .description{
+    font-size: 2.2em;
+}
+
+.container a{
+    font-size: 1.6em;
+}

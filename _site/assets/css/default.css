@@ -20,7 +20,6 @@ a:hover{
     color: black;
 }
 
-
 @font-face {
     font-family: Youth;
     src: url("../fonts/Youth.ttf") format('truetype');
@@ -58,7 +57,7 @@ body{
 }
 
 .container{
-    max-width: 600px;
+    max-width: 75%;
     margin: auto;
     text-align: center;
 }
